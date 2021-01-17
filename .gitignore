@@ -1,0 +1,7 @@
+/venv/
+/items/migrations/
+/users/migrations/
+/reviews/migrations/
+/static/images/
+/db.sqlite3
+/.idea/
